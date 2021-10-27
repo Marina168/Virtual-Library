@@ -1,0 +1,16 @@
+com\example\library\Services\BookService.class
+com\example\library\Entities\AuthorEntity.class
+com\example\library\Controllers\EditorController.class
+com\example\library\Repositories\EditorRepository.class
+com\example\library\Services\EditorService.class
+com\example\library\Services\AuthorService.class
+com\example\library\Repositories\AuthorRepository.class
+com\example\library\Controllers\AuthorController.class
+com\example\library\Entities\BookEntity.class
+com\example\library\Entities\EditorEntity.class
+com\example\library\Repositories\UserRepository.class
+com\example\library\Exceptions\ResourceNotFoundException.class
+com\example\library\Entities\UserEntity.class
+com\example\library\LibraryApplication.class
+com\example\library\Repositories\BookRepository.class
+com\example\library\Controllers\BookController.class
